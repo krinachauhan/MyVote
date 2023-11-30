@@ -5,4 +5,4 @@ cmake
 opencv
 numpy
 simple-object
-required unique email for voter 
+required voterid for voting process
